@@ -1,6 +1,6 @@
 ## Hi, I'm GRACY 🌸
 
-**📊 Aspiring Data Analyst | Turning Data into Insights**<br/>
+**📊 Data Analyst | Turning Data into Insights**<br/>
 
 💡 Passionate about transforming raw data into meaningful insights that drive decision-making.<br/>
 📈 Currently building projects in data analysis, visualization, and business intelligence.<br/>
