@@ -7,7 +7,7 @@
 🚀 Eager to learn, grow, and contribute to data-driven solutions.<br/>
 
 **🎯 Goals**<br/>
-📈 Create interactive dashboards using Power BI and Tableau<br/>
+📈 Create interactive dashboards using Power BI <br/>
 🌐 Contribute to open-source data analytics projects<br/>
 🌱 Continuously learn and stay updated with industry trends<br/>
 
