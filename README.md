@@ -11,6 +11,8 @@
 🌐 Contribute to open-source data analytics projects<br/>
 🌱 Continuously learn and stay updated with industry trends<br/>
 
+"Excited to connect, collaborate, and grow in the data analytics journey."
+
 **Open to Data Analyst roles — check out my projects below.**<br/>
 
 ## 🌐 Socials:
