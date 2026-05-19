@@ -11,7 +11,7 @@
 🌐 Contribute to open-source data analytics projects<br/>
 🌱 Continuously learn and stay updated with industry trends<br/>
 
-**Excited to connect, collaborate, and grow in the data analytics journey.**<br/>
+**Open to Data Analyst roles — check out my projects below.**<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___gracysingh___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GracySingh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gracysingh0601@gmail.com) 
